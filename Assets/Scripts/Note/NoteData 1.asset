@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3eebf7f4e27c0264ab727a838985884e, type: 3}
+  m_Name: NoteData 1
+  m_EditorClassIdentifier: 
+  pickupName: The Cat
+  order: 0
+  contents: 'Dear Alice,
+
+
+    Everything is fine here at Grandma''s place. Midnight
+    has been giving her a bit of trouble though. She hasn''t been feeding him enough.
+    Hopefully that changes in the coming weeks.
+
+
+    Love,
+
+
+    Lucy'
